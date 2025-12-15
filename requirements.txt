@@ -1,0 +1,9 @@
+streamlit
+pydantic
+google-generativeai
+duckduckgo-search
+beautifulsoup4
+requests
+python-dotenv
+pyyaml
+watchdog
